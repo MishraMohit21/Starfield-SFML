@@ -1,0 +1,38 @@
+﻿  Main.cpp
+  star.cpp
+  Starfield.cpp
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\star.cpp(30,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\star.cpp(31,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\star.cpp(32,8): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\star.cpp(33,13): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\star.cpp(34,12): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\star.cpp(45,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\star.cpp(46,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\star.cpp(54,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\star.cpp(55,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(55,84): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(55,84): warning C4244:         with
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(55,84): warning C4244:         [
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(55,84): warning C4244:             T=unsigned int
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(55,84): warning C4244:         ]
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(55,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(55,52): warning C4244:         with
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(55,52): warning C4244:         [
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(55,52): warning C4244:             T=unsigned int
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(55,52): warning C4244:         ]
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(109,20): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(111,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(114,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(157,28): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(158,47): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(158,47): warning C4244:         with
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(158,47): warning C4244:         [
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(158,47): warning C4244:             T=float
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(158,47): warning C4244:         ]
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(158,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(158,36): warning C4244:         with
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(158,36): warning C4244:         [
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(158,36): warning C4244:             T=float
+C:\Dev\Game Dev\SFML_Framework\SFML2\SFML2\Starfield.cpp(158,36): warning C4244:         ]
+  Generating Code...
+  SFML2.vcxproj -> C:\Dev\Game Dev\SFML_Framework\SFML2\Debug\SFML2.exe
